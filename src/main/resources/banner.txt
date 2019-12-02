@@ -1,0 +1,14 @@
+${AnsiColor.BRIGHT_GREEN}
+
+ ▄████▄   ██▓███   ██▓     ██▓▓█████  ██▀███
+▒██▀ ▀█  ▓██░  ██▒▓██▒    ▓██▒▓█   ▀ ▓██ ▒ ██▒
+▒▓█    ▄ ▓██░ ██▓▒▒██░    ▒██▒▒███   ▓██ ░▄█ ▒
+▒▓▓▄ ▄██▒▒██▄█▓▒ ▒▒██░    ░██░▒▓█  ▄ ▒██▀▀█▄
+▒ ▓███▀ ░▒██▒ ░  ░░██████▒░██░░▒████▒░██▓ ▒██▒
+░ ░▒ ▒  ░▒▓▒░ ░  ░░ ▒░▓  ░░▓  ░░ ▒░ ░░ ▒▓ ░▒▓░
+  ░  ▒   ░▒ ░     ░ ░ ▒  ░ ▒ ░ ░ ░  ░  ░▒ ░ ▒░
+░        ░░         ░ ░    ▒ ░   ░     ░░   ░
+░ ░                   ░  ░ ░     ░  ░   ░
+░                                             ${AnsiColor.DEFAULT}
+ :: Prompt Shell :: ${AnsiColor.BRIGHT_YELLOW}${application.formatted-version}${AnsiColor.DEFAULT}
+ :: Spring Boot  :: ${AnsiColor.BRIGHT_MAGENTA}${spring-boot.formatted-version} ${AnsiColor.DEFAULT}

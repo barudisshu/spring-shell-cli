@@ -1,0 +1,14 @@
+---
+spring:
+  application:
+    name: 'cplier-prompt-cli'
+
+## shell configuration
+# contextual colors
+shell:
+  out:
+    info: CYAN
+    success: GREEN
+    warning: YELLOW
+    error: RED
+---
